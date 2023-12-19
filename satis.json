@@ -1,0 +1,36 @@
+{
+    "name": "iat/composer.eachperson.com",
+    "homepage": "https://composer.eachperson.com",
+    "output-dir": "public",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-theme/besa",
+                "version": "2.2.19",
+                "type": "wordpress-theme",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/themes/besa-2.2.19.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/envato-market",
+                "version": "2.0.11",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://envato.github.io/wp-envato-market/dist/envato-market.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    ],
+    "archive": {
+        "directory": "dist",
+        "skip-dev": false
+    },
+    "require-all": true
+}
