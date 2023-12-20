@@ -10,7 +10,55 @@
                 "version": "2.2.19",
                 "type": "wordpress-theme",
                 "dist": {
-                    "url": "https://d29oict0egpw8n.cloudfront.net/themes/besa-2.2.19.zip",
+                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/themes/besa/besa-2.2.19.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/advanced-custom-fields-pro",
+                "version": "6.2.4",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/advanced-custom-fields-pro/advanced-custom-fields-pro-6.2.4.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/ajax-search-for-woocommerce-premium",
+                "version": "1.26.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/ajax-search-for-woocommerce-premium/ajax-search-for-woocommerce-premium-1.26.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/dokan-pro",
+                "version": "3.9.6",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/dokan-business/dokan-business-3.9.6.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/elementor-pro",
+                "version": "3.18.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/elementor-pro/elementor-pro-3.18.1.zip",
                     "type": "zip"
                 }
             }
@@ -23,6 +71,18 @@
                 "type": "wordpress-plugin",
                 "dist": {
                     "url": "https://envato.github.io/wp-envato-market/dist/envato-market.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/tbay-elementor",
+                "version": "1.1.11",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://plugins.thembay.com/tbay-elementor.zip",
                     "type": "zip"
                 }
             }
