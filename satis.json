@@ -6,66 +6,6 @@
         {
             "type": "package",
             "package": {
-                "name": "eachperson-theme/besa",
-                "version": "2.2.19",
-                "type": "wordpress-theme",
-                "dist": {
-                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/themes/besa/besa-2.2.19.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eachperson-plugin/advanced-custom-fields-pro",
-                "version": "6.2.4",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/advanced-custom-fields-pro/advanced-custom-fields-pro-6.2.4.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eachperson-plugin/ajax-search-for-woocommerce-premium",
-                "version": "1.26.1",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/ajax-search-for-woocommerce-premium/ajax-search-for-woocommerce-premium-1.26.1.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eachperson-plugin/dokan-pro",
-                "version": "3.9.6",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/dokan-business/dokan-business-3.9.6.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
-                "name": "eachperson-plugin/elementor-pro",
-                "version": "3.18.1",
-                "type": "wordpress-plugin",
-                "dist": {
-                    "url": "https://eachperson-composer-packages.s3.eu-west-2.amazonaws.com/plugins/elementor-pro/elementor-pro-3.18.1.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
                 "name": "eachperson-plugin/envato-market",
                 "version": "2.0.11",
                 "type": "wordpress-plugin",
@@ -83,6 +23,186 @@
                 "type": "wordpress-plugin",
                 "dist": {
                     "url": "https://plugins.thembay.com/tbay-elementor.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-theme/besa",
+                "version": "2.2.19",
+                "type": "wordpress-theme",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/themes/besa/besa-2.2.19.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/advanced-custom-fields-pro",
+                "version": "6.2.4",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/advanced-custom-fields-pro/advanced-custom-fields-pro-6.2.4.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/ajax-search-for-woocommerce-premium",
+                "version": "1.26.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/ajax-search-for-woocommerce-premium/ajax-search-for-woocommerce-premium-1.26.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/dokan-pro",
+                "version": "3.9.6",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/dokan-pro/dokan-business-3.9.6.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/elementor-pro",
+                "version": "3.18.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/elementor-pro/elementor-pro-3.18.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/mabel-wheel-of-fortune",
+                "version": "4.0.8",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/mabel-wheel-of-fortune/mabel-wheel-of-fortune-4.0.8.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/maximum-products-per-user-for-woocommerce-pro",
+                "version": "3.7.5",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/maximum-products-per-user-for-woocommerce-pro/maximum-products-per-user-for-woocommerce-pro-3.7.5.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/woocommerce-product-filters",
+                "version": "1.4.12",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-product-filters/woocommerce-product-filters-1.4.12.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/woocommerce-referral-system",
+                "version": "1.3.10.2",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-referral-system/woocommerce-referral-system-1.3.10.2.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/woocommerce-subscriptions",
+                "version": "5.5.0",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woocommerce-subscriptions/woocommerce-subscriptions-5.5.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/woo-variation-swatches-pro",
+                "version": "2.0.29",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woo-variation-swatches-pro/woo-variation-swatches-pro-2.0.29.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/woo-wallet-importer",
+                "version": "1.1.1",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/woo-wallet-importer/woo-wallet-importer-1.1.1.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/wordpress-store-locator",
+                "version": "2.1.12",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wordpress-store-locator/wordpress-store-locator-2.1.12.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/wpai-woocommerce-add-on",
+                "version": "4.0.0",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wpai-woocommerce-add-on/wpai-woocommerce-add-on-4.0.0.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "eachperson-plugin/wp-all-import-pro",
+                "version": "4.8.5",
+                "type": "wordpress-plugin",
+                "dist": {
+                    "url": "https://d29oict0egpw8n.cloudfront.net/plugins/wp-all-import-pro/wp-all-import-pro-4.8.5.zip",
                     "type": "zip"
                 }
             }
